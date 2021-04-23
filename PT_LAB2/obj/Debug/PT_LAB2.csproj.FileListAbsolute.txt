@@ -1,0 +1,17 @@
+F:\github\własne\PT_LAB2\PT_LAB2\obj\Debug\PT_LAB2.csprojAssemblyReference.cache
+F:\github\własne\PT_LAB2\PT_LAB2\obj\Debug\Dialog.g.cs
+F:\github\własne\PT_LAB2\PT_LAB2\obj\Debug\MainWindow.g.cs
+F:\github\własne\PT_LAB2\PT_LAB2\obj\Debug\App.g.cs
+F:\github\własne\PT_LAB2\PT_LAB2\obj\Debug\PT_LAB2_MarkupCompile.cache
+F:\github\własne\PT_LAB2\PT_LAB2\obj\Debug\PT_LAB2_MarkupCompile.lref
+F:\github\własne\PT_LAB2\PT_LAB2\bin\Debug\PT_LAB2.exe.config
+F:\github\własne\PT_LAB2\PT_LAB2\bin\Debug\PT_LAB2.exe
+F:\github\własne\PT_LAB2\PT_LAB2\bin\Debug\PT_LAB2.pdb
+F:\github\własne\PT_LAB2\PT_LAB2\obj\Debug\Dialog.baml
+F:\github\własne\PT_LAB2\PT_LAB2\obj\Debug\MainWindow.baml
+F:\github\własne\PT_LAB2\PT_LAB2\obj\Debug\PT_LAB2.g.resources
+F:\github\własne\PT_LAB2\PT_LAB2\obj\Debug\PT_LAB2.Properties.Resources.resources
+F:\github\własne\PT_LAB2\PT_LAB2\obj\Debug\PT_LAB2.csproj.GenerateResource.cache
+F:\github\własne\PT_LAB2\PT_LAB2\obj\Debug\PT_LAB2.csproj.CoreCompileInputs.cache
+F:\github\własne\PT_LAB2\PT_LAB2\obj\Debug\PT_LAB2.exe
+F:\github\własne\PT_LAB2\PT_LAB2\obj\Debug\PT_LAB2.pdb
